@@ -1,0 +1,11 @@
+#posts{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:20px;
+}
+.post{
+    color: aqua;
+    padding: 19px;
+    background-color: rgb(157, 147, 167);
+    border-radius: 4px;
+}
